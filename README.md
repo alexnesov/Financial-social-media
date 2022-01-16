@@ -1,2 +1,3 @@
 # Financial-social-media
-Python-Django training with JavaScript and maybe some React. Connection to my remote AWS RDS MySQL DB to stored messages and other data.
+Python-Django training with JavaScript and maybe some React. Connection to my remote AWS RDS MySQL DB to stored the messages and other data.
+Maybe also implementation of some PubSub logic to handle instant messaging.
