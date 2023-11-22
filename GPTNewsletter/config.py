@@ -1,0 +1,1 @@
+NEWSLETTER_LOG_PATH = 'gpt_newsletter_logs/'
