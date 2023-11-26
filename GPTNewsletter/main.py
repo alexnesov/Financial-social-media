@@ -43,7 +43,7 @@ def main():
     log.info(f"Started script at {datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
 
 
-    get_tickers_and_comments()
+    get_tickers_and_comments(log)
 
 
 if __name__ == '__main__':
